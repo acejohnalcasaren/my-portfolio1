@@ -1,0 +1,40 @@
+body{  
+        background-image: url('dd.jpg');
+        background-repeat: no-repeat;
+        background-attachment: fixed;
+        background-size: cover;
+      }
+h1 {
+    color: white;
+    position: center;
+    text-align: center;
+}
+h2{
+    color: white;
+}
+ul{
+    color: white;
+}
+a {
+    color: white;    
+}
+p{
+  color: white;
+}
+
+img{
+    height: 150px;
+    width: 150px;
+}
+label{
+    color: white;
+    text-align: center;
+    position: center;
+}
+legend{
+
+    color: white;
+    font-size: 30px;
+}
+
+
